@@ -1,3 +1,0 @@
-/home/zenyn1998/ExportedThrustControl/build/CMakeFiles/MyProgram.dir
-/home/zenyn1998/ExportedThrustControl/build/CMakeFiles/edit_cache.dir
-/home/zenyn1998/ExportedThrustControl/build/CMakeFiles/rebuild_cache.dir
